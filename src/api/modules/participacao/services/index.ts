@@ -1,0 +1,10 @@
+export {default as ItemService } from './item' ;
+export {default as ItemConcorrenteService } from './itemConcorrente' ; 
+export {default as GrupoItemService } from './grupoItem' ;
+export {default as ParticipacaoService } from './participacao' ;
+export {default as ParticipacaoAcompanhamentoService } from './acompanhamento' ;
+export {default as ParticipacaoAcompanhamentoTipoService } from './acompanhamentoTipo' ;
+export {default as ParticipacaoMovimentacaoService } from './movimentacao' ;
+export {default as ParticipacaoStatusService } from './status' ;
+export {default as ParticipacaoEmailService } from './email' ;
+export {default as ParticipacaoArquivoService } from './arquivo' ; 

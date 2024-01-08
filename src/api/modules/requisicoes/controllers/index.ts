@@ -1,0 +1,1 @@
+export { default as RequisicoesController } from './requisicoes' ;
